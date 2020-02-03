@@ -1,2 +1,2 @@
 # Hackerrankpreparation
-Java preparation with hackerrank software   
+Java preparation with hackerrank website
